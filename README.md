@@ -8,7 +8,7 @@ ou de pure **hérésie neuronale**,
 vous tapez avec la grâce d’un manchot albinos :
 
 ```bash
-pipi install numpy as np
+pipi install numpy
 ```
 
 ✨🥀 *et puis rien ne marche, évidemment.*
@@ -31,16 +31,6 @@ Non. Un rire **puissant**,
 Comme si **l’absurde**
 venait de vous gifler avec une semelle de python3.12.
 
----
-
-🧠💥 *"pip install numpy"*, qu’ils disaient.
-👨‍💻🕳️ *"import numpy as np"*, qu’ils rajoutaient.
-👻 Mais **vous**, visionnaire que vous êtes,
-vous avez tenté de fusionner les deux
-dans un acte de bravoure syntaxique
-qui ferait pleurer un parseur XML.
-
----
 
 > 💬 *Et là, dans le silence sacré de votre bureau, vous murmurez :*
 >
